@@ -1,0 +1,10 @@
+/*style for heading*/
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*style for paragraph*/
+p {
+color:violet;
+font-family: 'Times New Roman', Times, serif;
+}
